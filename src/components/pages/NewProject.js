@@ -1,6 +1,6 @@
 function NewProject (){
     return(
-        <p>NewProject</p>
+        <h1>NewProject</h1>
     )
 }
 export default NewProject 

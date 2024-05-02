@@ -1,6 +1,6 @@
 function Company (){
     return(
-        <p>Company</p>
+        <h1>Company</h1>
     )
 }
 export default Company 
