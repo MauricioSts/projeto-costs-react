@@ -7,7 +7,7 @@ import Container from "./components/layout/Container";
 import NavBar from "./components/layout/NavBar";
 import Footer from "./components/layout/Footer";
 import Projects from "./components/pages/Projects";
-import { FaFacebook } from "react-icons/fa";
+
 
 function App() {
   return (
